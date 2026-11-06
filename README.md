@@ -46,6 +46,6 @@ Também foi criada uma seção de habilidades para complementar a apresentação
 
 ## Publicação
 
-**Link do site:** A adicionar após a publicação no GitHub Pages.
+**Link do site:** https://cyntiaohye-alt.github.io/meu-portfolio/
 
-**Repositório:** A adicionar após a publicação no GitHub.
+**Repositório:** https://github.com/cyntiaohye-alt/meu-portfolio
